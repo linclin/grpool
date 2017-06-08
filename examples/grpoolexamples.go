@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/ivpusic/grpool"
+	"github.com/linclin/grpool"
 )
 
 func main() {
